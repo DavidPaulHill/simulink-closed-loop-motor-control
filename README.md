@@ -4,6 +4,8 @@ A small embedded motor-control demonstrator developed in **Simulink** using **Ar
 
 The work progressed from simple open-loop motor actuation to encoder-based position feedback, then to a practical closed-loop position-hold controller, followed by comparison against a cleaner proportional controller structure.
 
+Presentation PDF: [Simulink Closed Loop Control Project.pdf](Simulink%20Closed%20Loop%20Control%20Project.pdf)
+
 ## Project Overview
 
 ### Hardware Setup
