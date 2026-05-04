@@ -4,6 +4,20 @@ A small embedded motor-control demonstrator developed in **Simulink** using **Ar
 
 The work progressed from simple open-loop motor actuation to encoder-based position feedback, then to a practical closed-loop position-hold controller, followed by comparison against a cleaner proportional controller structure.
 
+## Project Overview
+
+### Hardware Setup
+![Hardware setup](hardware_setup.jpg)
+
+### Stage 3: Practical Position-Hold Controller
+![Stage 3 controller result](stage3_controller_result.png)
+
+### Stage 4: Proportional Controller Comparison
+![Stage 4 proportional comparison](stage4_proportional_comparison.png)
+
+### Stage 5: Disturbance Rejection Response
+![Stage 5 disturbance response](stage5_disturbance_response.png)
+
 ## Project Aim
 
 The aim of the project was to develop a hands-on Simulink-based control demonstrator that would:
