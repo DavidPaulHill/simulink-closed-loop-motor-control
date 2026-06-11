@@ -172,24 +172,6 @@ The **Stage 4 proportional controller** was cleaner structurally, but less robus
 The project showed clearly that real hardware effects such as friction, backlash, breakaway torque, and encoder quantisation strongly affect control behaviour.
 
 The most valuable outcome was not simply making the motor move, but understanding how controller structure, tuning choices, and plant non-linearities interact on a real embedded control system.
-
-## Suggested Repository Structure
-
-```text
-.
-├── README.md
-├── presentation/
-│   └── Simulink Closed Loop Control Project.pdf
-├── models/
-│   ├── Stage_1_*.slx
-│   ├── Stage_2_*.slx
-│   ├── Stage_3_*.slx
-│   ├── Stage_4_*.slx
-│   └── Stage_5_*.slx
-├── images/
-│   ├── hardware_setup.jpg
-│   ├── stage2_model.png
-│   ├── stage3_model.png
 │   ├── stage4_model.png
 │   └── stage5_scope.png
 └── notes/
